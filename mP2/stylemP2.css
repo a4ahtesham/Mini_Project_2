@@ -1,0 +1,87 @@
+body{
+	background-image:url('backmp2.jpg');
+	background-repeat:no-repeat;
+	background-size: 2500px 4500px;
+}
+
+.nav:hover{
+	background-color:blue;
+}
+.nav:active{
+	background-color:brown;
+}
+
+h2{
+	background-color:pink;
+	height:30px;
+	margin:5px; 
+	padding:5px;
+	width:500px;
+	margin-left:0;
+	
+}
+
+.Bbox1{
+	display:flex;
+	background-color:pink;
+	height:40px;
+}
+
+.Bbox2{
+	display:flex;
+}
+
+.Bbox3{
+	background-color:orange;
+	border:3px solid orange;
+	margin:20px;
+	padding:20px;
+	height:2000px;
+	width:500px;
+}
+
+.txt1{
+	font-size:28px;
+	color:red;
+	font-weight:bold;
+}
+
+
+.txt2{
+	font-size:16px;
+		color:red;
+
+}
+
+.txt3{
+	font-size:50px;
+	font-weight:bold;
+	color:orange;
+}
+.txt4{
+	font-size:30px;
+		color:pink;
+		font-style:italic;
+		margin-top:5px;
+	
+}
+
+.txt5{
+	font-size:16px;
+		color:red;
+}
+
+.box2{
+	margin-top:5px;
+	margin-left:800px;
+}
+
+.box3{
+	margin-top:200px;
+	margin-left:200px;
+}
+
+.box4{
+	margin-left:500px;
+	margin-top:100px;
+}
